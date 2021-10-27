@@ -1,0 +1,108 @@
+h1 {
+  color:##62654A;
+  width: 736px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Press Start 2P', cursive;
+}
+
+h2 {
+  color: #76A271;
+  width: 250px;
+  font-family: 'Oxygen', sans-serif;
+   padding-top: 40px;
+}
+
+h3  {
+  color: #76A271;
+  width: 245px;
+  padding-top: 5px;
+  font-family: 'Oxygen', sans-serif;
+}
+
+h4 {
+  color: #76A271;
+  width: 250px;
+  font-family: 'Oxygen', sans-serif;
+   padding-top: 20px;
+}
+
+.profile {
+  background: center / contain no-repeat url("images/profile_picture.jpg");
+  width: 8em;
+  height: 8em;
+  border-radius: 80px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.carré {
+  position: absolute;
+  background: white;
+  width: 15em;
+  height: 15em;
+  left: 50px;
+  border-radius: 60%;
+  text-align: center;
+}
+
+.carré2 {
+  position: absolute;
+  background: white;
+  width: 15em;
+  height: 15em;
+  right: 50px;
+  border-radius: 60%;
+  text-align: center;
+}
+
+.carré3 {
+  position: absolute;
+  background: white;
+  width: 15em;
+  height: 15em;
+  left: 640px;
+  right: 640px;
+  border-radius: 60%;
+  text-align: center;
+}
+.profile_info{
+  margin right: 0px;
+  padding-right:30px;
+}
+
+body {
+  background: center / contain no-repeat url("images/TINTINTIN.jpg");
+  width: 2500x;
+  height: 900px;
+}
+
+i:hover {
+  background-color: #7F9BE4;
+}
+
+ul {
+  top: 875px;
+  position:absolute;
+}
+
+#ramo {
+  padding-bottom: 3px;
+  width: 20x;
+  height: 70px;
+  padding-right: 130px;
+}
+
+
+#squirtle {
+  padding-bottom: 45px;
+  width: 40x;
+  height: 40px;
+  padding-left: 35px;
+}
+
+#seadra {
+  padding-bottom: 60px;
+  width: 15x;
+  height: 50px;
+}
